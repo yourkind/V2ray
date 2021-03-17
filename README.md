@@ -1,1 +1,85 @@
-# V2ray
+# V2ray机场梯子推荐，V2ray安卓-ios苹果-mac-windows客户端下载资源汇总以及2021年最新V2ray免费节点分享
+
+## 这期的博文主要针对V2ray的相关内容进行汇总介绍，包括V2ray安卓客户端以及V2ray 2021免费节点分享，一些个人感觉比较好的V2ray机场推荐等等。
+
+最近用V2ray的人是越来越多了，这两天查了下关键词全网搜索热度，V2ray的搜索已经赶超ssr了，不得不说时代在进步。
+
+这期给大家来个V2ray的大杂烩，主要是一些相关的第三方工具安装下载介绍，部分**V2ray免费节点分享**和一些**V2ray的机场**介绍，当然后期可能会有一些补充内容，不过前期暂时分这几个方面介绍，顺带会普及一些小白知识。
+
+## 一、什么是V2ray
+
+什么是V2ray？官方解释网上一搜一大堆，这里不太多做解释，把他看成一种翻墙方案就可以了，关于**V2ray的搭建**和原理说明已经有很多博主做过详细的分享，在翻墙的稳定性和安全性方面肯定是远超ssr的，虽然配置上来说比ssr也要复杂一些。
+
+可以简单附上一张V2ray的工作原理图，从图上可以看出其与ssr的工作原理上区别不大：
+
+![image](https://i.loli.net/2021/03/17/NTXPQGn7r6Rgbwf.jpg)
+
+目前已有大量用户从ssr转投V2ray阵营，并且深深感受到了V2ray的魅力，现在网上流传有很多用户自行配置分享的V2ray免费节点，只要配合第三方客户端就能使用，客户端的下载会在接下来的内容中提供给大家。
+
+## 二、V2ray类型的好用的机场梯子
+
+V2ray类型的机场梯子有很多，最出名的有Nord，Express，Westworld等等，这三家都是海外的机场线路提供商。其他的还有海螺，蓝莓这些也都是比较优秀的**V2ray机场**，不过后者因为提供回国线路对机场本身而言风险较大，不是太过推荐。
+
+英文比较好的用户可以使用Nord和Express，因为这两者是全英文界面，相对来说Westworld对中英双语的支持会比较好，习惯中文的用户可以选择它。
+
+我本人也主要用的Westworld，偶尔会因为测评原因使用其他品牌梯子，但大多数时间还是用的西部世界。
+
+Westworld（西部世界）机场梯子官网地址：[点击访问官网](https://xbsj4621.fun/i/sg046)
+
+![image](https://i.loli.net/2021/03/17/BNXmE2yldt8S5oT.jpg)
+
+![image](https://i.loli.net/2021/03/17/qgezlOMLyxDB5um.jpg)
+
+网站中英双语可以切换，线路也多，基本都是IEPL和IPLC专线，速度快且稳定。
+
+不过该网站是流量收费模式，去年还有不限流量节点，今天改成专线后全部变成了流量计费，每个月100-300G的流量，根据套餐选择，当然也有流量加油包之类的价格也划算。
+
+![image](https://i.loli.net/2021/03/17/XeYj54O7hHBuL1Q.jpg)
+
+对于一般看看视频上上网的用户来说流量是够用的，但如果是要批量下载电影的大流量用户，购买前还是需要谨慎考虑。
+
+V2ray机场的话我推荐这一家，毕竟是老牌大厂，价格实惠，性价比在几家老牌大厂中算是最高的，客服工单回复速度虽然稍微慢了些，但发工单也基本都会给与答复。一个账号支持手机电脑多台设备同时使用，比较方便。新用户也能免费试用。
+
+这款梯子的详细介绍可以看下这篇测评：[手机电脑pc梯子软件推荐](https://github.com/gelangtai/bestvpn)
+
+如果懒得自己动手搭建V2ray的用户可以考虑下他家的。
+
+## 三、V2ray各类客户端介绍：v2ray的安卓、苹果、windows客户端
+
+其实现在**V2ray的客户端**非常多，每个平台至少有两三个，我推荐几个自己用下来感觉不错的给大家，没有用过或者说使用体验并不是太好的在这里就不多做赘述。
+
+首先是**安卓手机的V2ray客户端**，安卓手机的用户如今不比ios少，相对来说安卓系统的软件资源也更加丰富，安卓手机的客户端我主推V2rayNG，下载安装就可以使用了：[点击下载V2rayNG](https://github.com/2dust/v2rayNG)
+
+**苹果ios的V2ray客户端**我推荐shadowrocket，懂的都懂，老翻墙了。
+
+shadowrocket不仅支持V2ray，也支持ssr和Trojan，很多有一定翻墙基础的玩家手机上估计都下有这个软件，在这里也不多做赘述了：[shadowrocket下载地址](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+
+**mac的V2ray客户端**我推荐CLASHX，个人感觉这款软件还是比较好用的，当然你也可以选择上面介绍的Westworld机场家的客户端，他家的mac客户端是自己开发的，支持添加第三方节点信息，也可以作为一个第三方软件使用，比clash要方便很多。如果你准备下载clashx的话，可以点击进入这个地址进行下载：[点击下载CLASHX](https://github.com/yichengchen/clashX)
+
+**windows的V2ray客户端**选择就很多样化了，我推荐的是V2rayN，使用方便，软件界面如下图：
+
+![image](https://i.loli.net/2021/03/17/EXcf1PQU5l8iJkZ.jpg)
+
+在选择服务器后，点击添加VMess服务器，跳出界面后填入节点信息就能够完成连接，我个人的windows电脑一直在用的这个软件，稳定好用，下载地址：[点击下载V2rayN](https://github.com/2dust/v2rayN)
+
+## 四、V2ray免费节点分享2021
+
+网上关于**V2ray免费节点**信息有很多，但搜索到的大部分节点信息可能都是网友很多年前分享的，如今不一定可用，我这里给大家分享几条**2021年最新能用的V2ray免费节点**，也是我自己搜集的一些不限流量节点，节点来自Westworld（西部世界）梯子的公益代理群当中。
+
+这个机场据说是因为全面改为专线机场，一些之前下架的空余线路资源就以免费分享的方式发送到公益群当中，白嫖党的最爱，大家也可以通过他们的官网地址找到他们的官方Telegram公益群，每天都能免费拿到最新的V2ray免费节点分享：
+
+![image](https://i.loli.net/2021/03/17/qDIbUhOpCevo4Kg.jpg)
+
+这群里现在成员才五百多人，不是太多，分享的节点资源没太多用户占用，试了下速度还是挺快的，配合V2ray的第三方客户端或者配合他们家自己开发的客户端都能免费用。
+
+vmess://eyJ2IjoyLCJwcyI6IuW5tOi0ucK3VsK36KW/6YOo5LiW55WM5YWs55uK6IqC54K5wrd4YnNqZ3kuZnVu5rOo5YaM5YWN6LS56K+V55SoSUVQTOWbvemZheS4k+e6vyIsImFkZCI6ImpwNWQ3OC54YnNqZ3kuZnVuIiwicG9ydCI6NDQzLCJpZCI6IjJkMTI3MjQ3LTJlNWEtNDhhYy1iNjk5LTU0OGJmYTk0NzJiNCIsImFpZCI6IiIsImhvc3QiOiJqcDVkNzgueGJzamd5LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzF4ZiIsInRscyI6InRscyJ9
+
+vmess://eyJ2IjoyLCJwcyI6IuW5tOi0ucK3VsK36KW/6YOo5LiW55WM5YWs55uK6IqC54K5wrd4YnNqZ3kuZnVu5rOo5YaM5YWN6LS56K+V55SoSUVQTOWbvemZheS4k+e6vyIsImFkZCI6ImpwYmQ3OS54YnNqZ3kuZnVuIiwicG9ydCI6NDQzLCJpZCI6IjJkMTI3MjQ3LTJlNWEtNDhhYy1iNjk5LTU0OGJmYTk0NzJiNCIsImFpZCI6IiIsImhvc3QiOiJqcGJkNzkueGJzamd5LmZ1biIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BmdCIsInRscyI6InRscyJ9
+
+vmess://eyJ2IjoyLCJwcyI6IuW5tOi0ucK3VsK36KW/6YOo5LiW55WM5YWs55uK6IqC54K5wrd4YnNqZ3kuZnVu5rOo5YaM5YWN6LS56K+V55SoSUVQTOWbvemZheS4k+e6vyIsImFkZCI6InVzazQyNTEud3d0dGExLmNvbSIsInBvcnQiOjQ0MywiaWQiOiIyZDEyNzI0Ny0yZTVhLTQ4YWMtYjY5OS01NDhiZmE5NDcyYjQiLCJhaWQiOiIiLCJob3N0IjoidXNrNDI1MS53d3R0YTEuY29tIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvNGNoIiwidGxzIjoidGxzIn0=
+
+vmess://eyJ2IjoyLCJwcyI6IuW5tOi0ucK3VsK36KW/6YOo5LiW55WM5YWs55uK6IqC54K5wrd4YnNqZ3kuZnVu5rOo5YaM5YWN6LS56K+V55SoSUVQTOWbvemZheS4k+e6vyIsImFkZCI6InVzdXYyNi53d2FwMS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMmQxMjcyNDctMmU1YS00OGFjLWI2OTktNTQ4YmZhOTQ3MmI0IiwiYWlkIjoiIiwiaG9zdCI6InVzdXYyNi53d2FwMS5jb20iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9oNWUiLCJ0bHMiOiJ0bHMifQ==
+
+vmess://eyJ2IjoyLCJwcyI6IuW5tOi0ucK3VsK36KW/6YOo5LiW55WM5YWs55uK6IqC54K5wrd4YnNqZ3kuZnVu5rOo5YaM5YWN6LS56K+V55SoSUVQTOWbvemZheS4k+e6vyIsImFkZCI6InVzM3AyMDcud3dhcDEuY29tIiwicG9ydCI6NDQzLCJpZCI6IjJkMTI3MjQ3LTJlNWEtNDhhYy1iNjk5LTU0OGJmYTk0NzJiNCIsImFpZCI6IiIsImhvc3QiOiJ1czNwMjA3Lnd3YXAxLmNvbSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL256OCIsInRscyI6InRscyJ9
+
+## 这期给大家做了V2ray机场推荐以及V2ray安卓-苹果ios-mac-windows的客户端下载介绍，希望能给大家带来一点帮助，同时分享的V2ray免费节点都是2021年最新免费可用的，可以放心拿去用。
